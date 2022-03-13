@@ -1,5 +1,5 @@
 # Lermo
-Lermo is a Open-Source Learning Management System that focuses on interactive and collaborative learning.
+Lermo is an Open Source Learning Management System that focuses on interactive and collaborative learning.
 
 - Social Learning Network: Lermo is a social platform for education which focuses on interactive and collaborative learning.
 - Micro-Learning: Lermo provides a micro-learning system. We let instructors create short content for a specific or small learning unit without creating the entire course or curriculum.
